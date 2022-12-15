@@ -10,3 +10,6 @@
 - [NLP Planet - Articles](https://www.nlplanet.org/blog/index.html#latest-articles)
 - [NLP Planet - News](https://discord.com/channels/962382759156908082/964842053328568350)
 - [Munich NLP News](https://discord.com/channels/972505512631500800/973541114072150046)
+
+## Music Generation
+- [Paper with Code](https://paperswithcode.com/task/music-generation)
