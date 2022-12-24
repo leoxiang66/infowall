@@ -19,6 +19,7 @@
 - [HuggingFace Deep RL](https://huggingface.co/deep-rl-course/unit0/introduction?fw=pt)
 - [HuggingFace diffusion](https://github.com/huggingface/diffusion-models-class)
 - [Knowledge Graph Course](https://iccl.inf.tu-dresden.de/web/Knowledge_Graphs)
+    - [youtube](https://www.youtube.com/playlist?list=PLC1-xg6wy5S9OAmWGTD5raUA3f5wekz5e) 
 
 ## Ph.D Info
 - [link](https://flowus.cn/84f0102f-8a44-47fa-bebd-3ffd0058ec4f)
