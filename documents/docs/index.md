@@ -23,3 +23,6 @@
 
 ## Ph.D Info
 - [link](https://flowus.cn/84f0102f-8a44-47fa-bebd-3ffd0058ec4f)
+
+## SE
+- [streamlit blogs](https://blog.streamlit.io/)
