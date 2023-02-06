@@ -8,6 +8,7 @@
 ## NLP
 - [Paper Weekly](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&__biz=MzIwMTc4ODE0Mw==&scene=1&album_id=1507626217196322817&count=3&from=singlemessage#wechat_redirect)
 - [NLP Planet - Articles](https://www.nlplanet.org/blog/index.html#latest-articles)
+- [NLP Planet - News (Newspaper)](https://nlplanet.beehiiv.com/)
 - [NLP Planet - News (Discord)](https://discord.com/channels/962382759156908082/964842053328568350)
 - [Munich NLP News (Discord)](https://discord.com/channels/972505512631500800/973541114072150046)
 - [TUM SEBIS Advanced Seminar](https://wwwmatthes.in.tum.de/pages/rwzby1tlqhn9/Advanced-Seminar)
